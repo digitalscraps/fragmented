@@ -1,5 +1,5 @@
 body {
-    background: greenyellow;
+    background: #bdccd4;
 }
 h1 {
     font-size: 1.5rem;
@@ -18,7 +18,7 @@ h2 {
 }
 .container footer {
     border: none;
-    background-color: greenyellow;
+    background-color: #bdccd4;
 }
 
 /* Flex Box and Grid */
